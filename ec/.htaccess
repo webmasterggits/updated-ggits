@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^cse\.ggits\.org$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.cse\.ggits\.org$
+RewriteRule ^/?$ "http\:\/\/ggits\.org\/cse" [R=301,L]
+

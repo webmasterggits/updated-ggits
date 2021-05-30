@@ -1,0 +1,13 @@
+
+
+<iframe src="somepage.pdf"></iframe>
+
+
+
+<object src="somepage.pdf"><embed src="somepage.pdf"></embed></object>
+
+
+<a href="Word.docx">Read the full file</a>.
+
+
+<object width="775px" height="500px" classid="clsid:00020906-0000-0000-C000-000000000046" data="sampleword.doc"></object>
